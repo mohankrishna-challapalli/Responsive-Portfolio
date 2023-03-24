@@ -15,7 +15,8 @@
   height: 100vh;
 }
 .main {
-  background-color: yellow;
+  /* background-color:yellow; */
+  background-color: white;
   width: 90vw;
 }
 .container {
@@ -35,7 +36,8 @@
   color: black;
 }
 .infocontainer {
-  background-color: red;
+  /* background-color: red; */
+  background-color: white;
   height: 55vh;
   width: 80vw;
   margin: 146px auto;
