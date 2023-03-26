@@ -77,8 +77,49 @@
   display: flex;
   justify-content: center;
   flex-direction: column;
-  font-family: "Poppins", sans-serif;
+   
 }
 .devPic img {
   height: 55vh;
+}
+.contactform{
+  font-family: "Poppins", sans-serif;
+  padding-top: 144px;
+  padding-right: 100px;
+  padding-left: 100px;
+  
+}
+.contactform h1{
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+
+}
+.contactform form div{
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+}
+.contactform form div input{
+  width: 16vw;
+  border-radius: 5px;
+  margin: 6px 0;
+  padding: 3px;
+}
+.contactform form div button{
+  width: 16vw;
+  border-radius: 5px;
+  margin: 6px 0;
+  padding: 3px;
+}
+
+.btn-sm{
+  font-size: 12px;
+  padding: 12px;
+  border-radius: 22px;
+  color: black;
+  background-color: rgb(71, 241, 247);
+  font-weight: bold;
+  margin: 0 3px;
+  position: relative;
+  left: 20px;
 }
